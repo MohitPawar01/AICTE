@@ -16,7 +16,7 @@ if st.button("Calculate"):
     if operation == "Add":
         result = num1 + num2
 
-    elif operation == "Subtraction":
+    elif operation == "Sub":
         result = num1 - num2
 
     elif operation == "Mult":
